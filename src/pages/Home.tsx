@@ -9,7 +9,7 @@ const Home = () => {
       <section className="section flex flex-col-reverse md:flex-row items-center gap-8 container mx-auto px-4">
         <div className="flex-1 space-y-6">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold gradient-text">
-            Hi, I'm <span className="text-primary">Your Name</span>
+            Hi, I'm <span className="text-primary">Akash Kumar</span>
           </h1>
           <p className="text-xl md:text-2xl font-medium leading-relaxed">
             I am a Computer Science student specializing in Artificial Intelligence w/s Machine Learning.
@@ -31,7 +31,7 @@ const Home = () => {
             <div className="absolute inset-0 bg-gradient-to-br from-primary/20 to-accent/20 rounded-full blur-3xl" />
             <div className="relative w-full h-full overflow-hidden rounded-full border-4 border-primary/20">
               <img
-                src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1287&auto=format&fit=crop"
+                src="/lovable-uploads/27a9d95d-dd5c-4c7c-91c6-d691b41ec456.png"
                 alt="Profile"
                 className="w-full h-full object-cover"
               />
