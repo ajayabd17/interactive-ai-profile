@@ -12,7 +12,7 @@ import {
   MessageCircle,
 } from "lucide-react";
 
-const ContactPage = () => {
+const Contact = () => {
   const { toast } = useToast();
   const [formData, setFormData] = useState({
     name: "",
